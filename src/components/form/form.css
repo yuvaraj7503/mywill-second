@@ -1,0 +1,36 @@
+
+.form{
+    padding: 3%;
+    margin: 0;
+    margin-left: 75%;
+    margin-top: -42%;
+    color: #000000;
+    background-color: rgb(238, 238, 238);
+    
+}
+.form input{
+    width: 250px;
+    height: 25px;
+}
+
+.form h3{
+    text-align: center;
+    margin-left: 25px;
+
+}
+.form h4{
+   margin-left: 25%;
+   margin-top: -10%;
+}
+
+.form button{
+    
+    margin-left: 15%;
+
+    
+}
+
+.up{
+ background-color: blue;
+ color: #fcfcfc;
+}

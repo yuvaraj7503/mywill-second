@@ -1,0 +1,53 @@
+.table-container {
+    margin-left: 20%;
+    font-family: Arial, sans-serif;
+    margin-top: -40%;
+    margin-bottom: auto;
+    
+    
+  }
+  
+  .beneficiaries-table {
+    width: 60%;
+    border-collapse: collapse;
+  }
+  
+  .beneficiaries-table th,s
+  .beneficiaries-table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+  }
+  
+  .beneficiaries-table th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+    
+  }
+  
+  .beneficiaries-table tr.selected {
+    background-color: #e6ffe6; 
+ 
+  }
+  
+  .beneficiaries-table tr:hover {
+    background-color: #f1f1f1;
+    
+  }
+  
+  .beneficiaries-table input[type="checkbox"] {
+    transform: scale(1.2);
+    height: 40px;
+  }
+
+  .btn{
+    margin-left: 51%;
+
+  }
+
+  .table-container h4{
+margin-bottom: -1%;
+
+  }
+
+  

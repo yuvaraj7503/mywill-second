@@ -1,0 +1,62 @@
+.nav{
+    display:flex;
+    justify-content:space-evenly;
+    box-shadow: 0 1px 3px -2px black;
+    color: #085b92;
+    margin-left: 11%;
+    cursor: pointer;
+
+}
+.nav-logos{
+    display:flex;
+    justify-content:space-around;
+    padding: 20px;
+    box-shadow: 0 1px 3px -2px black;
+    gap: 10px;
+    height: 40px;
+    background-color: #c0086d;
+    color: #ffffff;
+    
+       
+}
+.home{
+    display:flex;
+    justify-content:space-around;
+    padding: 20px;
+    box-shadow: 0 1px 3px -2px black;
+    height: 40px;
+    gap: 10px;  
+}
+.wallet{
+    display:flex;
+    justify-content:space-around;
+    padding: 20px;
+    box-shadow: 0 1px 3px -2px black;
+    height: 40px;
+    gap: 10px; 
+}
+.link{
+    display:flex;
+    justify-content:space-around;
+    padding: 20px;
+    box-shadow: 0 1px 3px -2px black;
+    height: 40px;
+    gap: 10px; 
+}
+.pen{
+    display:flex;
+    justify-content:space-around;
+    padding: 20px;
+    box-shadow: 0 1px 3px -2px black;
+    height: 40px; 
+    gap: 10px; 
+}
+.page{
+    display:flex;
+    justify-content:space-around;
+    padding: 20px;
+    box-shadow: 0 1px 3px -2px black;
+    height: 40px;
+    gap: 10px; 
+}
+

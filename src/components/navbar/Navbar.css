@@ -1,0 +1,58 @@
+.navbar{
+    display:flex;
+    justify-content:space-around;
+    box-shadow: 0 1px 3px -2px black;
+    
+    
+}
+.nav-logo{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    
+}
+.nav-logo{
+    color: #0866a5;
+    font-size: 30px;
+    font-weight: 600;
+    cursor: pointer;
+    height: 40px;
+}
+.search {
+    border-radius: 30%;
+    display:flex;
+    align-items: center;
+    list-style: none;
+    gap: 20px;
+    color: #252222;
+    font-size: 30px;
+    font-weight: 700;
+    width:800px;
+    height: 40px
+    
+    
+    
+    
+}
+.search-img{
+    margin-right: -3%;
+    
+    
+}
+.beill{
+    margin: -0%;
+}
+
+.navbar-count{
+    width: 22px;
+    height: 22px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -35px;
+    margin-left: -55px;
+    border-radius: 11px;
+    font-size: 14px;
+    background-color: red;
+    color: white;
+}
